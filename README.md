@@ -1,4 +1,4 @@
-### Project Title - NFL PREDICTIONS
+# NFL Predictions
  Our project deals with predicting the outcome of week 17 in a regular season.We are also predict the ticket prices of each game
 
 ### Getting Started
