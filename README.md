@@ -74,8 +74,6 @@ R-studio - 1.1.383
 * Akhil K, 01FB15ECS026
 * Arnav Deshpande, 01FB15ECS052
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ### License
 
 The is project is not licensed and is availiable freely for being used in any kind of way the user intends.
